@@ -14,8 +14,8 @@
 
 <div align="center">
   <a href="https://github.com/josafaverissimo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josafaverissimo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josafaverissimo&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josafaverissimo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josafaverissimo&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br>
 <div align="center">
@@ -30,14 +30,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="70" />
 </div>
 
 ##
 
+<pre>
+root@josafaverissimo:~# cat interests.txt
+- Html
+- Css
+- Javascript
+- PHP
+- Sql
+- React.js
+- React native
+- Node.js
+</pre>
+
+##
+
+![snake gif](https://github.com/josafaverissimo/josafaverissimo/blob/output/github-contribution-grid-snake.svg)
+
 <div>
    	<a href="https://www.linkedin.com/in/josafaverissimo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 </div>
-
-![snake gif](https://github.com/josafaverissimo/josafaverissimo/blob/output/github-contribution-grid-snake.svg)
