@@ -35,15 +35,15 @@
 ##
 
 <pre>
-root@josafaverissimo:~# cat interests.txt
-- Html
-- Css
-- Javascript
-- PHP
-- Sql
-- React.js
-- React native
-- Node.js
+root@josafaverissimo:~# cat interests.txt | sed 's/^/~ /g'
+~ Html
+~ Css
+~ Javascript
+~ PHP
+~ Sql
+~ React.js
+~ React native
+~ Node.js
 </pre>
 
 ##
