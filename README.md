@@ -6,7 +6,7 @@
 ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
 ██║  ██║███████╗███████╗███████╗╚██████╔╝
 ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ 
-░▒▓█[̲̅i][̲̅m] [̲̅j][̲̅o][̲̅s][̲̅a][̲̅f][̲̅á]█▓▒░
+░▒▓█I'm Josafá█▓▒░
                                         
 
 </pre>
@@ -47,8 +47,6 @@ root@josafaverissimo:~# cat interests.txt | sed 's/^/~ /g'
 </pre>
 
 ##
-
-![snake gif](https://github.com/josafaverissimo/josafaverissimo/blob/output/github-contribution-grid-snake.svg)
 
 <div>
    	<a href="https://www.linkedin.com/in/josafaverissimo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
