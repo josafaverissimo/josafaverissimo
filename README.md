@@ -1,8 +1,6 @@
 ##
-  <div align="center">
-    <p style="font-size: 1.4rem">&lt;?= "Hello World" ?&gt;</p>
-    Bem vindo ao meu github :)
-  </div>
+  # &lt;?= "Hello World" ?&gt;
+  Bem vindo ao meu github :)
 ##
 <br>
 <div align="center">
