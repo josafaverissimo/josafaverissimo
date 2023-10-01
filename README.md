@@ -1,5 +1,7 @@
 <div>
-  <h1>&lt;?= "Hello World" ?&gt;</h1>
+  <h1>
+    <span>&lt;?= "Hello World" ?&gt;</span>
+  </h1>
   Sou um desenvolvedor fullstack php. Estou sempre em busca da excelência. Procuro sempre me manter atualizado e relevante na área da tecnologia.
 </div>
 
