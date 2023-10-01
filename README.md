@@ -26,8 +26,8 @@
 <h3>
   <a href="https://github.com/josafaverissimo"></a>
   <span>Github Stats</span>
-  <img src="https://github-readme-stats.vercel.app/api?username=josafaverissimo&show_icons=true&theme=tokyonight">
 </h3>
+<img src="https://github-readme-stats.vercel.app/api?username=josafaverissimo&show_icons=true&theme=tokyonight">
 
 ##
 <div align="center">
