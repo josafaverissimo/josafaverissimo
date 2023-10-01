@@ -10,10 +10,10 @@
   Meu primeiro contato com programação foi com portugol, escrevi pequenos algoritmos durante o processo de aprendizado e após o portugol tive contato com PHP. Gostei muito da experiência que tive durante a resolução de problemas com a linguagem, ao ponto de querer me especializar nela.
   <br><br>
   Atualmente trabalho como auxiliar de informática no Atacadão.
-<h1>
+<h2>
   <a href="https://github.com/josafaverissimo"></a>
   Meus projetos
-</h1>
+</h2>
 <div align="center">
     <a href="https://github.com/josafaverissimo/atacadao-portal273" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=atacadao-portal273&theme=dracula&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21&hide_border=false" />
@@ -22,6 +22,13 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=webscraping&theme=dracula&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21&hide_border=false" />
     </a>
 </div>
+
+<h3>
+  <a href="https://github.com/josafaverissimo"></a>
+  <span>Github Stats</span>
+</h3>
+
+![Josafá Veríssimo Gomes Stats](https://github-readme-stats.vercel.app/api?username=josafaverissimo&show_icons=true&theme=tokyonight)
 
 ##
 <div align="center">
