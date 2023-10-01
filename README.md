@@ -1,5 +1,5 @@
 <h1>
-  <a href="https://github.com/josafaverissimo">&lt;/&gt;</a>
+  <a href="https://github.com/josafaverissimo"></a>
   <span>&lt;?= "Hello World" ?&gt;</span>
 </h1>
   Sou um desenvolvedor fullstack php. Estou sempre em busca da excelência. Procuro sempre me manter atualizado e relevante na área da tecnologia.
