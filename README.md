@@ -18,19 +18,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" />
 </div>
 
-##
-<pre>
-root@josafaverissimo:~# cat interests.txt | sed 's/^/~ /g'
-~ Html
-~ Css
-~ Javascript
-~ PHP
-~ Sql
-~ React.js
-~ React native
-~ Node.js
-</pre>
-##
+<div align="center">
+<h1>Meus projetos</h1>
+  
+  <a href="https://github.com/PauloEwerson/relatorio_recargas" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=atacadao-portal273&theme=dracula&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21&hide_border=false" />
+  </a>
+</div>
 
 <div>
    	<a href="https://www.linkedin.com/in/josafaverissimo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
