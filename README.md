@@ -16,10 +16,10 @@
 </h2>
 <div align="center">
     <a href="https://github.com/josafaverissimo/atacadao-portal273" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=atacadao-portal273&theme=dracula&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21&hide_border=false" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=atacadao-portal273&theme=tokyonight&hide_border=true" />
     </a>
     <a href="https://github.com/josafaverissimo/webscraping" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=webscraping&theme=tokyonight" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=webscraping&theme=tokyonight&hide_border=true" />
     </a>
 </div>
 
