@@ -1,5 +1,5 @@
 <div></div>
-  <h1 aling="center">&lt;?= "Hello World" ?&gt;</h1>
+  <h1 align="center">&lt;?= "Hello World" ?&gt;</h1>
   Bem vindo ao meu github :)
 <br>
 <div align="center">
