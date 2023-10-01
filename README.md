@@ -1,8 +1,6 @@
 <div align="center">
-<pre>
-      # <?= "Hello World" ?>
-      Bem vindo ao meu github :)
-</pre>
+# &lt;?= "Hello World" ?&gt;
+Bem vindo ao meu github :)
 </div>
 <br>
 <div align="center">
