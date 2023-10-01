@@ -1,10 +1,10 @@
 <div>
-  <h1 align="center">&lt;?= "Hello World" ?&gt;</h1>
+  <h1>&lt;?= "Hello World" ?&gt;</h1>
   Bem vindo ao meu github :)
 </div>
 
 <div>
-<h1>Meus projetos</h1>
+<h2>Meus projetos</h2>
   <a href="https://github.com/josafaverissimo/atacadao-portal273" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=atacadao-portal273&theme=dracula&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21&hide_border=false" />
   </a>
@@ -29,6 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" />
 </div>
+
+##
 
 <div>
    	<a href="https://www.linkedin.com/in/josafaverissimo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
