@@ -2,7 +2,6 @@
   <h1 align="center">&lt;?= "Hello World" ?&gt;</h1>
   Bem vindo ao meu github :)
 </div>
-<br>
 
 ##
 <div align="center">
