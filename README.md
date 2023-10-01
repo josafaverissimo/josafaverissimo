@@ -10,6 +10,10 @@
   Meu primeiro contato com programação foi com portugol, escrevi pequenos algoritmos durante o processo de aprendizado e após o portugol tive contato com PHP. Gostei muito da experiência que tive durante a resolução de problemas com a linguagem, ao ponto de querer me especializar nela.
   <br><br>
   Atualmente trabalho como auxiliar de informática no Atacadão.
+
+  Se precisar da minha ajuda, é só entrar em contato comigo pelo linkedin ou pelo endereço de email abaixo.
+  <br>josafaverissimo98@gmail.com<a href = "mailto:josafaverissimo98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <br><a href="https://www.linkedin.com/in/josafaverissimo/" target="_blank">https://www.linkedin.com/in/josafaverissimo/ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 <h2>
   <a href="https://github.com/josafaverissimo"></a>
   Meus projetos
@@ -42,9 +46,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" />
-</div>
-
-##
-<div>
-   	<a href="https://www.linkedin.com/in/josafaverissimo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
 </div>
