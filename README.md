@@ -1,6 +1,6 @@
 <div>
   <h1>&lt;?= "Hello World" ?&gt;</h1>
-  Bem vindo ao meu github :)
+  Sou um desenvolvedor fullstack php. Estou sempre em busca da excelência. Procuro sempre me manter atualizado e relevante na área da tecnologia.
 </div>
 
 ## Meus projetos
