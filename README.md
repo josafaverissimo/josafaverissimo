@@ -11,6 +11,18 @@
     <a href="https://github.com/josafaverissimo/kRCP" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=kRCP&theme=dracula&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21&hide_border=false" />
     </a>
+    <a href="https://github.com/josafaverissimo/webscraping" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=webscraping&theme=dracula&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21&hide_border=false" />
+    </a>
+    <a href="https://github.com/josafaverissimo/jsmaskregex" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=jsmaskregex&theme=dracula&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21&hide_border=false" />
+    </a>
+    <a href="https://github.com/josafaverissimo/beecrowd" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=beecrowd&theme=dracula&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21&hide_border=false" />
+    </a>
+    <a href="https://github.com/josafaverissimo/aluraquiz" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=aluraquiz&theme=dracula&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21&hide_border=false" />
+    </a>
 </div>
 
 ##
