@@ -1,7 +1,6 @@
-##
-  # &lt;?= "Hello World" ?&gt;
+<div></div>
+  <h1 aling="center">&lt;?= "Hello World" ?&gt;</h1>
   Bem vindo ao meu github :)
-##
 <br>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" />
@@ -18,7 +17,6 @@
 </div>
 
 ##
-
 <pre>
 root@josafaverissimo:~# cat interests.txt | sed 's/^/~ /g'
 ~ Html
@@ -30,7 +28,6 @@ root@josafaverissimo:~# cat interests.txt | sed 's/^/~ /g'
 ~ React native
 ~ Node.js
 </pre>
-
 ##
 
 <div>
