@@ -12,8 +12,6 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=kRCP&theme=dracula&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21&hide_border=false" />
     </a>
 </div>
-'
-##
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" />
