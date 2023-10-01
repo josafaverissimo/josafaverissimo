@@ -5,7 +5,11 @@
   Seja muito bem-vindo ao meu repositório :). Sinta-se livre para explorar ^^
   <br><br>
 
-  Sou um desenvolvedor fullstack php. Estou sempre em busca da excelência. Procuro sempre me manter atualizado e relevante na área da tecnologia.<br>Meu primeiro contato com programação foi com portugol, escrevi pequenos algoritmos durante o processo de aprendizado e após o portugol tive contato com PHP. Gostei muito da experiência que tive durante a resolução de problemas com a linguagem, ao ponto de querer me especializar nela.
+  Sou um desenvolvedor fullstack php. Estou sempre em busca da excelência. Procuro sempre me manter atualizado e relevante na área da tecnologia.
+  <br><br>
+  Meu primeiro contato com programação foi com portugol, escrevi pequenos algoritmos durante o processo de aprendizado e após o portugol tive contato com PHP. Gostei muito da experiência que tive durante a resolução de problemas com a linguagem, ao ponto de querer me especializar nela.
+  <br><br>
+  Atualmente trabalho como auxiliar de informática no Atacadão.
 <h1>
   <a href="https://github.com/josafaverissimo"></a>
   Meus projetos
