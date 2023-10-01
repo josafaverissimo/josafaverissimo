@@ -1,6 +1,6 @@
 ##
   <div align="center">
-    <h1>&lt;?= "Hello World" ?&gt;</h1>
+    <p style="font-size: 1.4rem">&lt;?= "Hello World" ?&gt;</p>
     Bem vindo ao meu github :)
   </div>
 ##
