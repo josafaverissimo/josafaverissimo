@@ -28,6 +28,9 @@
     <a href="https://github.com/josafaverissimo/webscraping" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=webscraping&theme=tokyonight&hide_border=true" />
     </a>
+    <a href="https://github.com/josafaverissimo/totem-project" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=totem-project&theme=tokyonight&hide_border=true" />
+    </a>
 </div>
 
 <h3>
