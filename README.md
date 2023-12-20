@@ -58,7 +58,9 @@
   <a href="https://github.com/josafaverissimo"></a>
   <span>Github Stats</span>
 </h3>
-<img src="https://github-readme-stats.vercel.app/api?username=josafaverissimo&show_icons=true&theme=tokyonight">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=josafaverissimo&show_icons=true&theme=tokyonight">
+</div>
 
 ##
 <div align="center">
