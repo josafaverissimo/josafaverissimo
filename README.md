@@ -25,6 +25,9 @@
     <a href="https://github.com/josafaverissimo/atacadao-portal273" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=atacadao-portal273&theme=tokyonight&hide_border=true" />
     </a>
+    <a href="https://github.com/josafaverissimo/totem-project" target="_blank" align="left">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=xmgoi-webapp&theme=tokyonight&hide_border=true" />
+    </a>
     <a href="https://github.com/josafaverissimo/webscraping" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=webscraping&theme=tokyonight&hide_border=true" />
     </a>
