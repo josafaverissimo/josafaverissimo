@@ -34,12 +34,6 @@
     <a href="https://github.com/josafaverissimo/totem-project" target="_blank" align="left">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=totem-project&theme=tokyonight&hide_border=true" />
     </a>
-    <a href="https://github.com/josafaverissimo/totem-project" target="_blank" align="left">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=my-employee&theme=tokyonight&hide_border=true" />
-    </a>
-    <a href="https://github.com/josafaverissimo/jsmaskregex" target="_blank" align="left">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=jsmaskregex&theme=tokyonight&hide_border=true" />
-    </a>
 </div>
 
 <h3>
