@@ -48,6 +48,11 @@
     </a>
     </div>
     <div>
+    <a href="https://github.com/josafaverissimo/kRCP" target="_blank">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=kRCP&theme=tokyonight&hide_border=true" />
+    </a>
+    </div>
+    <div>
     <a href="https://github.com/josafaverissimo/jsmaskregex" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=jsmaskregex&theme=tokyonight&hide_border=true" />
     </a>
