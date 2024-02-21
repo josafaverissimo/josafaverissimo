@@ -22,7 +22,7 @@
   <a href="https://github.com/josafaverissimo"></a>
   Meus projetos
 </h2>
-<div align="center">
+<div>
     <div>
     <a href="https://github.com/josafaverissimo/atacadao-portal273" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=atacadao-portal273&theme=tokyonight&hide_border=true" />
