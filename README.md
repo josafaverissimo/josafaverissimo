@@ -24,21 +24,17 @@
 </h2>
 <div>
     <div>
-    <a href="https://github.com/josafaverissimo/atacadao-portal273" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=atacadao-portal273&theme=tokyonight&hide_border=true" />
-    </a>
+      <a href="https://github.com/josafaverissimo/atacadao-portal273" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=atacadao-portal273&theme=tokyonight&hide_border=true" />
+      </a>      
+      <a href="https://github.com/josafaverissimo/xmgoi13-webapp" target="_blank">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=xmgoi13-webapp&theme=tokyonight&hide_border=true" />
+      </a> 
     </div>
-    <div>
-    <a href="https://github.com/josafaverissimo/xmgoi13-webapp" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=xmgoi13-webapp&theme=tokyonight&hide_border=true" />
-    </a> 
-    </div>
-    <div>
+    <div>      
     <a href="https://github.com/josafaverissimo/my-employee" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=my-employee&theme=tokyonight&hide_border=true" />
     </a>
-    </div>
-    <div>
     <a href="https://github.com/josafaverissimo/totem-project" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=totem-project&theme=tokyonight&hide_border=true" />
     </a>
@@ -47,13 +43,11 @@
     <a href="https://github.com/josafaverissimo/webscraping" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=webscraping&theme=tokyonight&hide_border=true" />
     </a>
-    </div>
-    <div>
     <a href="https://github.com/josafaverissimo/kRCP" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=kRCP&theme=tokyonight&hide_border=true" />
     </a>
     </div>
-    <div>
+    <div align="center">
     <a href="https://github.com/josafaverissimo/jsmaskregex" target="_blank">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=jsmaskregex&theme=tokyonight&hide_border=true" />
     </a>
