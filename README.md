@@ -18,55 +18,14 @@
   <br>
   <a href = "mailto:josafaverissimo98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/josafaverissimo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-<h2>
-  <a href="https://github.com/josafaverissimo"></a>
-  Meus projetos
-</h2>
-<div>
-    <div>
-      <a href="https://github.com/josafaverissimo/atacadao-portal273" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=atacadao-portal273&theme=tokyonight&hide_border=true" />
-      </a>      
-      <a href="https://github.com/josafaverissimo/xmgoi13-webapp" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=xmgoi13-webapp&theme=tokyonight&hide_border=true" />
-      </a> 
-    </div>
-    <div>      
-    <a href="https://github.com/josafaverissimo/my-employee" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=my-employee&theme=tokyonight&hide_border=true" />
-    </a>
-    <a href="https://github.com/josafaverissimo/totem-project" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=totem-project&theme=tokyonight&hide_border=true" />
-    </a>
-    </div>
-    <div>
-    <a href="https://github.com/josafaverissimo/webscraping" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=webscraping&theme=tokyonight&hide_border=true" />
-    </a>
-    <a href="https://github.com/josafaverissimo/kRCP" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=kRCP&theme=tokyonight&hide_border=true" />
-    </a>
-    </div>
-    <div align="center">
-    <a href="https://github.com/josafaverissimo/jsmaskregex" target="_blank">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=josafaverissimo&repo=jsmaskregex&theme=tokyonight&hide_border=true" />
-    </a>
-    </div>
-</div>
 
-<h3>
-  <a href="https://github.com/josafaverissimo"></a>
-  <span>Github Stats</span>
-</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josafaverissimo&show_icons=true&theme=tokyonight">
-</div>
-
+<h2>Tecnologia</h2>
 ##
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" />
