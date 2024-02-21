@@ -12,8 +12,9 @@
   Atualmente trabalho como auxiliar de informática no Atacadão.
 
   Se precisar da minha ajuda, é só entrar em contato comigo pelo linkedin ou pelo endereço de email abaixo.
-  <br>josafaverissimo98@gmail.com
-  <br>https://www.linkedin.com/in/josafaverissimo/
+  <br>
+
+  <h2>Contato</h2>
   <br>
   <a href = "mailto:josafaverissimo98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/josafaverissimo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
