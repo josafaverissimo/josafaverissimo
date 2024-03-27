@@ -31,6 +31,8 @@
 ![Django](https://img.shields.io/badge/Django-0c4b33?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django-rest-a30000?style=for-the-badge&logo=django&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-699eca?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![Mysql](https://img.shields.io/badge/MySQL-3e6e93?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ## Knowing
 
@@ -41,13 +43,24 @@
 ## Projects
 
 [![Anvisa Meds](https://progress-bar.dev/100?title=Anvisa%20Meds)](https://github.com/josafaverissimo/anvisa-meds)
+![Python](https://img.shields.io/badge/Python-346e9e?style=flat&logo=python&logoColor=white)
+![DRF](https://img.shields.io/badge/Django-rest-a30000?style=flat&logo=django&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-3fb984?style=flat&logo=vue.js&logoColor=white)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-699eca?style=flat&logo=PostgreSQL&logoColor=white)
 
 * [Anvisa Meds - Interface à base de dados dos preços de medicamentos fornecidos pela ANVISA](https://github.com/josafaverissimo/anvisa-meds)
 
 [![FTotem](https://progress-bar.dev/100?title=Ftotem)](https://github.com/josafaverissimo/anvisa-meds)
+![PHP](https://img.shields.io/badge/PHP-7a86b8?style=flat&logo=php&logoColor=white)
+![Codeigniter](https://img.shields.io/badge/Codeigniter-dd4814?style=flat&logo=codeigniter&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-3fb984?style=flat&logo=vue.js&logoColor=white)
+![Mysql](https://img.shields.io/badge/MySQL-3e6e93?style=flat&logo=mysql&logoColor=white)
+
 
 * [Ftotem - Sistema para gerir dados do evento e permitir visitantes a gravarem vídeos](https://github.com/josafaverissimo/anvisa-meds)
 
 [![Portal atacadão](https://progress-bar.dev/100?title=Portal%20Atacadão)](https://github.com/josafaverissimo/anvisa-meds)
+![PHP](https://img.shields.io/badge/PHP-7a86b8?style=flat&logo=php&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-f7e018?style=flat&logo=javascript&logoColor=white)
 
 * [Portal Atacadão - Sistema que exibe links de outros sites, relatórios e gerencia dados](https://github.com/josafaverissimo/atacadao-portal273)
