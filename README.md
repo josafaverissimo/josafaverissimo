@@ -50,16 +50,16 @@
 
 * [Anvisa Meds - Interface à base de dados dos preços de medicamentos fornecidos pela ANVISA](https://github.com/josafaverissimo/anvisa-meds)
 
-[![FTotem](https://progress-bar.dev/100?title=Ftotem)](https://github.com/josafaverissimo/anvisa-meds)
+[![FTotem](https://progress-bar.dev/100?title=Ftotem)](https://github.com/josafaverissimo/ftotem)
 ![PHP](https://img.shields.io/badge/PHP-7a86b8?style=flat&logo=php&logoColor=white)
 ![Codeigniter](https://img.shields.io/badge/Codeigniter-dd4814?style=flat&logo=codeigniter&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-3fb984?style=flat&logo=vue.js&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-3e6e93?style=flat&logo=mysql&logoColor=white)
 
 
-* [Ftotem - Sistema para gerir dados do evento e permitir visitantes a gravarem vídeos](https://github.com/josafaverissimo/anvisa-meds)
+* [Ftotem - Sistema para gerir dados do evento e permitir visitantes a gravarem vídeos](https://github.com/josafaverissimo/ftotem)
 
-[![Portal atacadão](https://progress-bar.dev/100?title=Portal%20Atacadão)](https://github.com/josafaverissimo/anvisa-meds)
+[![Portal atacadão](https://progress-bar.dev/100?title=Portal%20Atacadão)](https://github.com/josafaverissimo/atacadao-portal273)
 ![PHP](https://img.shields.io/badge/PHP-7a86b8?style=flat&logo=php&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-f7e018?style=flat&logo=javascript&logoColor=white)
 
