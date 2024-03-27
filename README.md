@@ -1,38 +1,53 @@
-<h1>
-  <a href="https://github.com/josafaverissimo"></a>
-  <span>&lt;?= "Hello World" ?&gt;</span>
-</h1>
-  Seja muito bem-vindo ao meu repositório :). Sinta-se livre para explorar ^^
-  <br><br>
+# Hello World
 
-  Sou um desenvolvedor fullstack php. Estou sempre em busca da excelência. Procuro sempre me manter atualizado e relevante na área da tecnologia.
-  <br><br>
-  Meu primeiro contato com programação foi com portugol, escrevi pequenos algoritmos durante o processo de aprendizado e após o portugol tive contato com PHP. Gostei muito da experiência que tive durante a resolução de problemas com a linguagem, ao ponto de querer me especializar nela.
-  <br><br>
-  Atualmente trabalho como auxiliar de informática no Atacadão.
+🇧🇷 PT-BR
 
-  Link do meu portfólio: <a href="https://josafaverissimo-portfolio.vercel.app/">Meu Portfólio</a>
+    👋 Seja bem-vindo ao meu repositório. Sinta-se livre para explorar.
+    🧑‍💻 Sou um desenvolvedor fullstack.
+    👔 Atualmente trabalho como suporte técnico e estou cursando Ciência da Computação.
+    💬 Se precisar da minha ajuda, basta entrar em contato átravés do linkedin ou por email.
 
-  Se precisar da minha ajuda, é só entrar em contato comigo pelo linkedin ou pelo endereço de email abaixo.
-  <br>
+🇬🇧 EN
 
-  <h2>Contato</h2>
-  <br>
-  <a href = "mailto:josafaverissimo98@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/josafaverissimo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+    👋 Welcome to my repository. Feel free to explore.
+    🧑‍💻 I'm a fullstack developer.
+    👔 I currently work as technical support and i'm studying Computer Science.
+    💬 If you need my help, just contact me via LinkedIn or email.
 
-<h2>Tecnologias</h2>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" />
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josafaverissimo98@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josafaverissimo/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-fff?style=for-the-badge)]((https://josafaverissimo-portfolio.vercel.app/))
+
+## Skills
+
+![PHP](https://img.shields.io/badge/PHP-7a86b8?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=white)
+![Codeigniter](https://img.shields.io/badge/Codeigniter-dd4814?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-3fb984?style=for-the-badge&logo=vue.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-23bcf1?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-346e9e?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0c4b33?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django-rest-a30000?style=for-the-badge&logo=django&logoColor=white)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-699eca?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+
+## Knowing
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-319946?style=for-the-badge&logo=android&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61dafb?style=for-the-badge&logo=react&logoColor=white)
+
+## Projects
+
+[![Anvisa Meds](https://progress-bar.dev/100?title=Anvisa%20Meds)](https://github.com/josafaverissimo/anvisa-meds)
+
+* [Anvisa Meds - Interface à base de dados dos preços de medicamentos fornecidos pela ANVISA](https://github.com/josafaverissimo/anvisa-meds)
+
+[![FTotem](https://progress-bar.dev/100?title=Ftotem)](https://github.com/josafaverissimo/anvisa-meds)
+
+* [Ftotem - Sistema para gerir dados do evento e permitir visitantes a gravarem vídeos](https://github.com/josafaverissimo/anvisa-meds)
+
+[![Portal atacadão](https://progress-bar.dev/100?title=Portal%20Atacadão)](https://github.com/josafaverissimo/anvisa-meds)
+
+* [Portal Atacadão - Sistema que exibe links de outros sites, relatórios e gerencia dados](https://github.com/josafaverissimo/atacadao-portal273)
