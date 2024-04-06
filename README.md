@@ -20,19 +20,22 @@
 
 ## Skills
 
-![PHP](https://img.shields.io/badge/PHP-7a86b8?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=white)
-![Codeigniter](https://img.shields.io/badge/Codeigniter-dd4814?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=white)
-![Typescript](https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-3fb984?style=for-the-badge&logo=vue.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-23bcf1?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-346e9e?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-0c4b33?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django-rest-a30000?style=for-the-badge&logo=django&logoColor=white)
+
+![Node](https://img.shields.io/badge/Node.js-4e9b43?style=for-the-badge&logo=node.js&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-3fb984?style=for-the-badge&logo=vue.js&logoColor=white)
+
+![PHP](https://img.shields.io/badge/PHP-7a86b8?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-f9322c?style=for-the-badge&logo=laravel&logoColor=white)
+![Codeigniter](https://img.shields.io/badge/Codeigniter-dd4814?style=for-the-badge&logo=codeigniter&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-23bcf1?style=for-the-badge&logo=docker&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-699eca?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-3e6e93?style=for-the-badge&logo=mysql&logoColor=white)
-
 
 ## Knowing
 
