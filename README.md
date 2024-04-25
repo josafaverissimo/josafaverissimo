@@ -3,15 +3,17 @@
 🇧🇷 PT-BR
 
     👋 Seja bem-vindo ao meu repositório. Sinta-se livre para explorar.
+    🧑‍🎓 Estou cursando Ciência da Computação.
     🧑‍💻 Sou um desenvolvedor fullstack.
-    👔 Atualmente trabalho como suporte técnico e estou cursando Ciência da Computação.
+    👔 Atualmente trabalho como desenvolvedor fullstack.
     💬 Se precisar da minha ajuda, basta entrar em contato átravés do linkedin ou por email.
 
 🇬🇧 EN
 
     👋 Welcome to my repository. Feel free to explore.
+    🧑‍🎓 I'm studying Computer Science.
     🧑‍💻 I'm a fullstack developer.
-    👔 I currently work as technical support and i'm studying Computer Science.
+    👔 I currently work as fullstack developer.
     💬 If you need my help, just contact me via LinkedIn or email.
 
 [![Gmail](https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josafaverissimo98@gmail.com)
