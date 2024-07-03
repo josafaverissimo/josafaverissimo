@@ -4,7 +4,7 @@
 
     👋 Seja bem-vindo ao meu repositório. Sinta-se livre para explorar.
     🧑‍🎓 Estou cursando Ciência da Computação.
-    🧑‍💻 Sou um desenvolvedor fullstack.
+    🧑‍💻 Sou um desenvolvedor de software.
     👔 Atualmente trabalho como desenvolvedor fullstack.
     💬 Se precisar da minha ajuda, basta entrar em contato átravés do linkedin ou por email.
 
@@ -12,7 +12,7 @@
 
     👋 Welcome to my repository. Feel free to explore.
     🧑‍🎓 I'm studying Computer Science.
-    🧑‍💻 I'm a fullstack developer.
+    🧑‍💻 I'm a software developer.
     👔 I currently work as fullstack developer.
     💬 If you need my help, just contact me via LinkedIn or email.
 
