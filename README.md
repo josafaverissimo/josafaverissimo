@@ -1,12 +1,4 @@
-# Hello World
-
-🇧🇷 PT-BR
-
-    👋 Seja bem-vindo ao meu repositório. Sinta-se livre para explorar.
-    🧑‍🎓 Estou cursando Ciência da Computação.
-    🧑‍💻 Sou um desenvolvedor de software.
-    👔 Atualmente trabalho como desenvolvedor fullstack.
-    💬 Se precisar da minha ajuda, basta entrar em contato átravés do linkedin ou por email.
+# <?= "Hello World" ?>
 
 🇬🇧 EN
 
@@ -15,6 +7,14 @@
     🧑‍💻 I'm a software developer.
     👔 I currently work as fullstack developer.
     💬 If you need my help, just contact me via LinkedIn or email.
+
+🇧🇷 PT-BR
+
+    👋 Seja bem-vindo ao meu repositório. Sinta-se livre para explorar.
+    🧑‍🎓 Estou cursando Ciência da Computação.
+    🧑‍💻 Sou um desenvolvedor de software.
+    👔 Atualmente trabalho como desenvolvedor fullstack.
+    💬 Se precisar da minha ajuda, basta entrar em contato átravés do linkedin ou por email.
 
 [![Gmail](https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josafaverissimo98@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josafaverissimo/)
