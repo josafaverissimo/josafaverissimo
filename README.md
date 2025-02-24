@@ -47,6 +47,10 @@
 
 ## Projects
 
+[![Motolog](https://progress-bar.dev/100?title=Motolog)](https://github.com/josafaverissimo/motolog)
+
+* [Motolog - Gestão de cadastro de motoristas](https://github.com/josafaverissimo/motolog)
+
 [![Anvisa Meds](https://progress-bar.dev/100?title=Anvisa%20Meds)](https://github.com/josafaverissimo/anvisa-meds)
 ![Python](https://img.shields.io/badge/Python-346e9e?style=flat&logo=python&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django-rest-a30000?style=flat&logo=django&logoColor=white)
