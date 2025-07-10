@@ -45,7 +45,7 @@
 ![Docker](https://img.shields.io/badge/Docker-23bcf1?style=for-the-badge&logo=docker&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-699eca?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-3e6e93?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-ff4438?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-ff4438?style=for-the-badge&logo=Redis&logoColor=white)
 
 ## Projects
 
