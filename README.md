@@ -36,6 +36,7 @@
 ![Node](https://img.shields.io/badge/Node.js-4e9b43?style=for-the-badge&logo=node.js&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
+![Bun](https://img.shields.io/badge/Elysia-101829?style=for-the-badge&logo=bun&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-3fb984?style=for-the-badge&logo=vue.js&logoColor=white)
 
 ![PHP](https://img.shields.io/badge/PHP-7a86b8?style=for-the-badge&logo=php&logoColor=white)
