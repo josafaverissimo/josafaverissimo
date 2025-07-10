@@ -24,7 +24,7 @@
 
 ![Java](https://img.shields.io/badge/Java-f19010?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white)
-![Javalin](https://img.shields.io/badge/Javalin-f19010?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Javalin](https://img.shields.io/badge/Javalin-1d1d1d?style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6cb52d?style=for-the-badge&logo=python&logoColor=white)
 
 
