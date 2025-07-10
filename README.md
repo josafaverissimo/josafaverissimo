@@ -22,10 +22,17 @@
 
 ## Skills
 
+![Java](https://img.shields.io/badge/f19010?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white)
+![Javalin](https://img.shields.io/badge/f19010?style=for-the-badge&logo=python&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6cb52d?style=for-the-badge&logo=python&logoColor=white)
+
+
 ![Python](https://img.shields.io/badge/Python-346e9e?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-0c4b33?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django-rest-a30000?style=for-the-badge&logo=django&logoColor=white)
 
+![Bun](https://img.shields.io/badge/bun-14151a?style=for-the-badge&logo=node.js&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-4e9b43?style=for-the-badge&logo=node.js&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-f7e018?style=for-the-badge&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -38,12 +45,7 @@
 ![Docker](https://img.shields.io/badge/Docker-23bcf1?style=for-the-badge&logo=docker&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-699eca?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-3e6e93?style=for-the-badge&logo=mysql&logoColor=white)
-
-## Knowing
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-319946?style=for-the-badge&logo=android&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61dafb?style=for-the-badge&logo=react&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-ff4438?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Projects
 
